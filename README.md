@@ -28,7 +28,7 @@ spawns:
 }
 ```
 
-A Config you can use if you have installed the [MoreWeapons](https://github.com/SynapseSL/MoreWeapons) plugin
+A Config example you can use if you have installed the [MoreWeapons](https://github.com/SynapseSL/MoreWeapons) plugin
 ```
 [ItemSpawner]
 {
