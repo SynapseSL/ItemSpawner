@@ -56,7 +56,7 @@ spawns:
     z: -7.12724686
   item:
     iD: 37
-    durabillity: 10
+    durabillity: 1
     sight: 0
     barrel: 0
     other: 0
