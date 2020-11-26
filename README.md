@@ -124,5 +124,20 @@ spawns:
     ySize: 2
     zSize: 2
   spawnChance: 100
+- position:
+    room: HCZ_Testroom
+    x: -3.66893
+    y: -15.90002
+    z: -7.447395
+  item:
+    iD: 42
+    durabillity: 0
+    sight: 0
+    barrel: 0
+    other: 0
+    xSize: 1
+    ySize: 1
+    zSize: 1
+  spawnChance: 100
 }
 ```
