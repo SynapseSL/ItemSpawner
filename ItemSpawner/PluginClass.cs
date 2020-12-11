@@ -23,7 +23,7 @@ namespace ItemSpawner
         private void RoundStart()
         {
             foreach(var spawn in Config.Spawns)
-                if(UnityEngine.Random.Range(0f,100f) <= spawn.SpawnChance)
+                if(UnityEngine.Random.Range(1f,100f) <= spawn.SpawnChance)
                 {
                     var item = spawn.Item.Parse();
                     item.Drop(spawn.Position.Parse().Position);
