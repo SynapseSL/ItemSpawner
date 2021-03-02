@@ -40,7 +40,7 @@ spawns:
     y: 1.33001697
     z: -1.07815599
   item:
-    iD: 36
+    iD: 50
     durabillity: 1
     sight: 0
     barrel: 0
@@ -55,7 +55,7 @@ spawns:
     y: -12.4075298
     z: -7.12724686
   item:
-    iD: 37
+    iD: 51
     durabillity: 1
     sight: 0
     barrel: 0
@@ -70,7 +70,7 @@ spawns:
     y: 265.399994
     z: 6.57559204
   item:
-    iD: 38
+    iD: 52
     durabillity: 8
     sight: 0
     barrel: 0
@@ -85,7 +85,7 @@ spawns:
     y: 2.23846412
     z: 7.119596
   item:
-    iD: 39
+    iD: 53
     durabillity: 1
     sight: 3
     barrel: 4
@@ -100,7 +100,7 @@ spawns:
     y: -3
     z: -6.44455004
   item:
-    iD: 40
+    iD: 54
     durabillity: 0
     sight: 0
     barrel: 0
@@ -115,7 +115,7 @@ spawns:
     y: -6.5
     z: -0.589004517
   item:
-    iD: 41
+    iD: 55
     durabillity: 0
     sight: 0
     barrel: 0
@@ -130,7 +130,7 @@ spawns:
     y: -15.90002
     z: -7.447395
   item:
-    iD: 42
+    iD: 56
     durabillity: 0
     sight: 0
     barrel: 0
