@@ -1,5 +1,5 @@
 # ItemSpawner
-A small Plugin for Scp:SL that allows to setup new spawn points for items (even for a custom item)
+A small Plugin for Scp:SL that allows to setup new spawn points for items (even for custom items)
 
 ## Config
 In order to get a position for an spawn point you can use the command `mappoint` in the game and it gives you the position you are currently looking at
